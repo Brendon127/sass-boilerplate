@@ -15,12 +15,13 @@
   'base/base',
   'base/fonts',
   'base/typography',
-  'base/helpers';
+  'base/utilities';
 
 // 4. Layout-related sections
 @import
   'layout/header',
-  'layout/footer';
+  'layout/footer',
+  'layout/grid';
 
 // 5. Components
 @import
